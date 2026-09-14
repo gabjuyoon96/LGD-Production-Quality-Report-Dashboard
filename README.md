@@ -1,5 +1,8 @@
 # LGD-Production-Quality-Report-Dashboard
 
+<img width="985" height="795" alt="2026-09-14_171234" src="https://github.com/user-attachments/assets/201c1964-d91a-4057-9969-543481f273e2" />
+
+
 ## 📌 프로젝트 소개
 
 LG디스플레이 직무 교육 과정에서 제작한 **생산·품질 업무 보고서 웹 대시보드**입니다.
